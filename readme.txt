@@ -9,22 +9,22 @@ Tags: one-column, two-columns, right-sidebar,custom-background, custom-header, c
 
 == Description ==
 
-freelancer Agency is a responsive theme suitable for business and personal online presence along with blog, priceing table and more. Without any help of plugins, you can showcase your portfolio and testimonials on the website. The theme provides options to change logo, header background, favicon and more via customizer. Check live preview here http://code-tutors.com/demo/
+freelancer Agency is a responsive theme suitable for business and personal online presence along with blog, priceing table and more. Without any help of plugins, you can showcase your portfolio and testimonials on the website. The theme provides options to change logo, header background, favicon and more via customizer.
 
-For more information about freelancer Agency please go to https://www.code-tutors.com/forum
+For more information about freelancer Agency please go to https://www.247-assistant.com/dev/
 
 == Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Type in Freelancer Agency in the search form and press the 'Enter' key on your keyboard.
 3. Click on the 'Activate' button to use your new theme right away.
-4. Go to https://www.code-tutors.com/ for a guide on how to customize this theme.
+4. Go to https://www.247-assistant.com/dev/ for a guide on how to customize this theme.
 5. Create two pages for home and blog, select respective home or blog templates.
 6. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
 == Copyright ==
 
-Freelancer Agency WordPress Theme, Copyright 2017 www.code-tutors.com
+Freelancer Agency WordPress Theme, Copyright 2017 https://www.247-assistant.com/dev/
 Freelancer Agency is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
